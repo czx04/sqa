@@ -45,6 +45,11 @@ Nếu lỗi:
 ```bash
 python -m pip install requests grpcio grpcio-tools
 ```
+nếu chưa có pip
+```bash
+python -m ensurepip --upgrade
+```
+
 
 ---
 
